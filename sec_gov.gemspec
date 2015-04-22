@@ -19,6 +19,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "nokogiri"
-  spec.add_dependency "mechanize"
+  spec.add_dependency "httparty"
 end
 
